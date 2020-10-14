@@ -1,1 +1,1 @@
-![My favorite map](img/fav-map.png
+![My favorite map](img/fav-map.png)
